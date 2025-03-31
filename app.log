@@ -1,0 +1,14 @@
+2025-03-26 19:40:01,823 - INFO - Function greet called with args: ('Alice',) kwargs: {}
+2025-03-26 19:40:01,824 - INFO - Function greet returned Hello, Alice
+2025-03-26 19:40:01,824 - INFO - Function divide called with args: (10, 2) kwargs: {}
+2025-03-26 19:40:01,824 - INFO - Function divide returned 5.0
+2025-03-26 19:40:01,824 - INFO - Function divide called with args: (5, 0) kwargs: {}
+2025-03-26 19:40:01,825 - ERROR - Error in divide: division by zero
+Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\python-prac\logging-with-decorator.py", line 13, in wrapper
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\Desktop\python-prac\logging-with-decorator.py", line 24, in divide
+    return a / b
+           ~~^~~
+ZeroDivisionError: division by zero
