@@ -1,9 +1,9 @@
 .venv
-Docker-test
-templates
-destination.png
-enum-eg.py
-example.log
+#Docker-test
+#templates
+#destination.png
+#enum-eg.py
+#example.log
 fastapi1.py
 jwt_authentication.py
 jwt_authentication_prac.py

@@ -1,0 +1,6 @@
+version: "3.8"
+services:
+  jwt_authentication:
+    image: hetkothari09/myfirstrepo:v.0.0.1.RELEASE
+    ports:
+      - 8000:8000

@@ -1,0 +1,5 @@
+DEBUG:__main__:DEBUG: This mssg should go to the log file
+INFO:__main__:INFO: This should too
+WARNING:__main__:WARNING: So should this
+ERROR:__main__:ERROR: this too!
+CRITICAL:__main__:CRITICAL: this is most important!
