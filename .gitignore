@@ -55,3 +55,9 @@ celerybeat-schedule.dat
 celerybeat-schedule.dir
 websocket-server-eg1.py
 websockets-client-eg1.py
+backtest.py
+vectorbt-live-trade.py
+vectorbt-multiple_strat.py
+vectorbt-multiple-symbols.py
+vectorbt-orderbook.py
+
