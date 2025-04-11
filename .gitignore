@@ -14,11 +14,11 @@
 #methods.py
 #middleware1.py
 #multiple_dirs.py
-nested_dirs.py
-pydantic-models1.py
-pytz-eg.py
-redis-eg1.py
-redis_user_session.py
+#nested_dirs.py
+#pydantic-models1.py
+#pytz-eg.py
+#redis-eg1.py
+#redis_user_session.py
 relativedelta-eg.py
 requirements.txt
 restful-api-eg1.py
